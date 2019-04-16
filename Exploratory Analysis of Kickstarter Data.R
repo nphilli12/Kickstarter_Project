@@ -1,6 +1,3 @@
-title: "Exploratory Analysis of Kickstarter Data"
-author: "Ashley Kittrell"
-date: "Last Updated: November 25, 2018"
 
 install.packages (c('caret','skimr','RANN','randomforest','fastadaboost','gbm','xgboost','caretEnsemble','c50','earth'))
 install.packages("devtools", "rworldxtras", "ggplot2")
